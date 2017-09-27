@@ -1,0 +1,123 @@
+//File:stmp.rh//
+
+#define IDB_TREEBITMAPS 127
+#define IDB_TEXTBIU     128
+#define IDB_TEXTALIGN   129
+
+#define IDI_MAINICON    130
+
+#define MAINMENU        131
+
+#define ACCEL           132
+
+#define PREVIEW_CURSOR  133
+
+#define IDD_ABOUT       296
+#define IDD_OPENFILEDIALOG 297
+#define IDD_PREVIEW     298
+#define IDD_PANEL       299
+#define IDD_STAMPEDITOR 300
+#define IDD_LTEXTEDITOR 301
+#define IDD_RECTEDITOR  302
+#define IDD_LINEEDITOR  303
+#define IDD_CIRCLEEDITOR 304
+#define IDD_CTEXTEDITOR 305
+#define IDD_PICBITMAPEDITOR 306
+#define IDD_TRIANGLEEDITOR 307
+
+#define IDC_NUMOBJECTS  100
+#define IDC_HEIGHT      101
+#define IDC_THICKNESS   102
+#define IDC_WIDTH       103
+#define IDC_CENTERX     104
+#define IDC_CENTERY     105
+#define IDC_DELETE      106
+#define IDC_CHANGE      107
+#define IDC_UPDOWN      108
+#define IDC_DIAMETER    109
+#define IDC_RADIUS      110
+#define IDC_CRDY2       111
+#define IDC_CRDY1       112
+#define IDC_CRDX2       113
+#define IDC_CRDX1       114
+#define IDC_SPACING     115
+#define IDC_STYLE       116
+#define IDC_ALIGN       117
+#define IDC_THICKNESSCHECK 118
+#define IDC_SIZEPT      119
+#define IDC_SIZEMM      120
+#define IDC_ANGLE       121
+#define IDC_FONT        122
+#define IDC_TEXT        123
+#define IDC_INVERT      124
+#define IDC_PATH        125
+#define IDC_VIEW        128
+#define IDC_HRULER      129
+#define IDC_VRULER      130
+#define IDC_STAMPNAME   131
+#define IDC_TREE        132
+#define IDC_PREVIEW     133
+#define IDC_SAVEPREVIEW 134
+#define IDC_NEW         135
+#define IDC_OPEN        136
+#define IDC_SAVE        137
+#define IDC_SAVEAS      138
+#define IDC_IRADIUS     139
+#define IDC_SIDELENGTH  140
+#define IDC_ORADIUS     141
+
+#define CM_LAST1        4000
+#define CM_FILEEXIT     4101
+#define CM_FILENEW      4102
+#define CM_FILEOPEN     4103
+#define CM_FILESAVE     4104
+#define CM_FILESAVE_AS  4105
+#define CM_HELPABOUT    4106
+#define CM_HELPCONTENTS 4107
+#define CM_FILEPRINT    4108
+#define CM_EDITORUPDATE 4109
+#define CM_UPDATE       4110
+#define CM_EDITORDELETE 4111
+#define CM_EDITORCLOSE  4112
+#define CM_ENTER        4113
+#define CM_NEXTGROUP		4114
+#define CM_PREVGROUP		4115
+#define CM_NEXTOBJECT	4116
+#define CM_PREVOBJECT	4117
+#define CM_STAMPCHANGE  4118
+
+
+#define ERRMSG_CREATEMAINWINDOW 3000
+#define ERRMSG_CREATESTATUSLINEWINDOW 2999
+#define ERRMSG_REGCLASS1 3001
+#define ERRMSG_REGCLASS2 3002
+#define ERRMSG_REGCLASS3 3003
+#define ERRMSG_REGCLASS4 3004
+#define ERRMSG_REGCLASS5 3005
+#define ERRMSG_REGCLASS6 3006
+#define ERRMSG_REGCLASS7 3007
+#define ERRMSG_REGCLASS8 3008
+#define IDS_PREVIEWTEXT1 3010
+#define IDS_PREVIEWTEXT2 3011
+#define IDS_PREVIEWTEXT3 3012
+#define IDS_BUTTONSTEXT  3013
+#define IDS_TREETEXT     3014
+#define IDS_EDITORTEXT   3015
+
+#define BMP_LINE       1050
+#define BMP_CIRCLE     1051
+#define BMP_TRIANGLE   1052
+#define BMP_RECTANGLE  1053
+#define BMP_LTEXT      1054
+#define BMP_CTEXT      1055
+#define BMP_TTEXT      1056
+#define BMP_PICTURE    1057
+#define BMP_PICTURE2   3057
+#define BMP_TTEXT2     3056
+#define BMP_CTEXT2     3055
+#define BMP_LTEXT2     3054
+#define BMP_RECTANGLE2 3053
+#define BMP_TRIANGLE2  3052
+#define BMP_CIRCLE2    3051
+#define BMP_LINE2      3050
+

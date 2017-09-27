@@ -1,0 +1,24 @@
+//File:printman.rh//
+
+#define IDD_PRINTMANAGER	125
+#define IDD_OPENFILEDIALOG 297
+#define IDD_PRINT		298
+
+#define IDC_PRINT	        1
+#define IDC_PRINTERNAME	  101
+#define IDC_SETUP	        102
+#define IDC_FILES	        103
+#define IDC_STAMPPREVIEW	104
+#define IDC_PMPREVIEW	    105
+#define IDC_ADD	          106
+#define IDC_REMOVE	      107
+#define IDC_NEW	          108
+#define IDC_OPEN	        109
+#define IDC_SAVE	        110
+#define IDC_SAVEAS	      111
+#define IDC_STAMPNAME     1024
+#define IDC_PREVIEW       1025
+#define IDC_SAVEPREVIEW   1026
+
+#define IDC_PRINTFNAME 150
+#define IDC_PRINTNAME 151
